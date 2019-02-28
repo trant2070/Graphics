@@ -58,7 +58,9 @@ public class ShapePanel extends JPanel
                 window.setColor(Color.white);
                 window.fillOval(100, 150, 155, 155);
                 window.setColor(Color.cyan);
-                window.fillOval(100, 150, 155, 155);
+                window.fillOval(130, 180, 100, 100);
+                window.setColor(Color.black);
+                window.fillOval(150, 200, 50, 50);
                 
                 
 	}
